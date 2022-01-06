@@ -13,6 +13,14 @@
 		1994CDE82785612000EBE16F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1994CDE62785612000EBE16F /* Main.storyboard */; };
 		1994CDEA2785612100EBE16F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1994CDE92785612100EBE16F /* Assets.xcassets */; };
 		1994CDED2785612100EBE16F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1994CDEB2785612100EBE16F /* LaunchScreen.storyboard */; };
+		1994CDF52785618F00EBE16F /* ExpansionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1994CDF42785618F00EBE16F /* ExpansionViewController.swift */; };
+		1994CDF72786AC3B00EBE16F /* 2022 1 6 cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 1994CDF62786AC3B00EBE16F /* 2022 1 6 cat.png */; };
+		1994CDFE2786C29F00EBE16F /* 2022 1 6 panda in Resources */ = {isa = PBXBuildFile; fileRef = 1994CDFA2786C29F00EBE16F /* 2022 1 6 panda */; };
+		1994CE032786D64C00EBE16F /* 2022 1 6 koala.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1994CE012786D64C00EBE16F /* 2022 1 6 koala.jpeg */; };
+		1994CE0B2786EDEC00EBE16F /* 2022 1 6 dog.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1994CE0A2786EDEC00EBE16F /* 2022 1 6 dog.jpeg */; };
+		1994CE0D2786EF7100EBE16F /* 2022 1 6 dog2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1994CE0C2786EF7100EBE16F /* 2022 1 6 dog2.jpeg */; };
+		1994CE0F2786F08D00EBE16F /* 2022 1 6 rion.png in Resources */ = {isa = PBXBuildFile; fileRef = 1994CE0E2786F08D00EBE16F /* 2022 1 6 rion.png */; };
+		1994CE112786F13700EBE16F /* 2022 1 6 monkey.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1994CE102786F13700EBE16F /* 2022 1 6 monkey.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,14 @@
 		1994CDE92785612100EBE16F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1994CDEC2785612100EBE16F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1994CDEE2785612100EBE16F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1994CDF42785618F00EBE16F /* ExpansionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpansionViewController.swift; sourceTree = "<group>"; };
+		1994CDF62786AC3B00EBE16F /* 2022 1 6 cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "2022 1 6 cat.png"; path = "../../../Downloads/2022 1 6 cat.png"; sourceTree = "<group>"; };
+		1994CDFA2786C29F00EBE16F /* 2022 1 6 panda */ = {isa = PBXFileReference; lastKnownFileType = file; name = "2022 1 6 panda"; path = "../../../Downloads/2022 1 6 panda"; sourceTree = "<group>"; };
+		1994CE012786D64C00EBE16F /* 2022 1 6 koala.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "2022 1 6 koala.jpeg"; path = "../../../Downloads/2022 1 6 koala.jpeg"; sourceTree = "<group>"; };
+		1994CE0A2786EDEC00EBE16F /* 2022 1 6 dog.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2022 1 6 dog.jpeg"; sourceTree = "<group>"; };
+		1994CE0C2786EF7100EBE16F /* 2022 1 6 dog2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2022 1 6 dog2.jpeg"; sourceTree = "<group>"; };
+		1994CE0E2786F08D00EBE16F /* 2022 1 6 rion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2022 1 6 rion.png"; sourceTree = "<group>"; };
+		1994CE102786F13700EBE16F /* 2022 1 6 monkey.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2022 1 6 monkey.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +75,18 @@
 				1994CDE02785612000EBE16F /* AppDelegate.swift */,
 				1994CDE22785612000EBE16F /* SceneDelegate.swift */,
 				1994CDE42785612000EBE16F /* ViewController.swift */,
+				1994CDF42785618F00EBE16F /* ExpansionViewController.swift */,
 				1994CDE62785612000EBE16F /* Main.storyboard */,
 				1994CDE92785612100EBE16F /* Assets.xcassets */,
 				1994CDEB2785612100EBE16F /* LaunchScreen.storyboard */,
 				1994CDEE2785612100EBE16F /* Info.plist */,
+				1994CDF62786AC3B00EBE16F /* 2022 1 6 cat.png */,
+				1994CDFA2786C29F00EBE16F /* 2022 1 6 panda */,
+				1994CE012786D64C00EBE16F /* 2022 1 6 koala.jpeg */,
+				1994CE0A2786EDEC00EBE16F /* 2022 1 6 dog.jpeg */,
+				1994CE0C2786EF7100EBE16F /* 2022 1 6 dog2.jpeg */,
+				1994CE0E2786F08D00EBE16F /* 2022 1 6 rion.png */,
+				1994CE102786F13700EBE16F /* 2022 1 6 monkey.jpeg */,
 			);
 			path = SlideshowApp;
 			sourceTree = "<group>";
@@ -125,9 +149,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1994CDF72786AC3B00EBE16F /* 2022 1 6 cat.png in Resources */,
+				1994CE0B2786EDEC00EBE16F /* 2022 1 6 dog.jpeg in Resources */,
 				1994CDED2785612100EBE16F /* LaunchScreen.storyboard in Resources */,
 				1994CDEA2785612100EBE16F /* Assets.xcassets in Resources */,
 				1994CDE82785612000EBE16F /* Main.storyboard in Resources */,
+				1994CDFE2786C29F00EBE16F /* 2022 1 6 panda in Resources */,
+				1994CE112786F13700EBE16F /* 2022 1 6 monkey.jpeg in Resources */,
+				1994CE032786D64C00EBE16F /* 2022 1 6 koala.jpeg in Resources */,
+				1994CE0F2786F08D00EBE16F /* 2022 1 6 rion.png in Resources */,
+				1994CE0D2786EF7100EBE16F /* 2022 1 6 dog2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +169,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1994CDF52785618F00EBE16F /* ExpansionViewController.swift in Sources */,
 				1994CDE52785612000EBE16F /* ViewController.swift in Sources */,
 				1994CDE12785612000EBE16F /* AppDelegate.swift in Sources */,
 				1994CDE32785612000EBE16F /* SceneDelegate.swift in Sources */,
