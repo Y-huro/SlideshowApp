@@ -13,9 +13,9 @@ class ViewController: UIViewController {
         self.performSegue(withIdentifier: "expansion", sender: nil)
     }
     // 画像の名前
-    let imageIndex = ["2022 1 6 cat.png",
-                      "2022 1 6 koala.jpeg",
-                      "2022 1 6 panda",
+    let imageIndex = ["2022 1 7 cat.png",
+                      "2022 1 7 koala.jpeg",
+                      "2022 1 7 panda.jpeg",
                       "2022 1 6 dog.jpeg",
                       "2022 1 6 monkey.jpeg"]
     // 上記配列の参照番号
