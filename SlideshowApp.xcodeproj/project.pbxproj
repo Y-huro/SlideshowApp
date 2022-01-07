@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1941FDA1278717E000B7144B /* 2022 1 6 rion.png in Resources */ = {isa = PBXBuildFile; fileRef = 1941FDA0278717E000B7144B /* 2022 1 6 rion.png */; };
 		195E16722787FACD00906063 /* 2022 1 7 koala.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 195E166F2787FACD00906063 /* 2022 1 7 koala.jpeg */; };
 		195E16732787FACD00906063 /* 2022 1 7 panda.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 195E16702787FACD00906063 /* 2022 1 7 panda.jpeg */; };
 		195E16742787FACD00906063 /* 2022 1 7 cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 195E16712787FACD00906063 /* 2022 1 7 cat.png */; };
@@ -19,12 +18,10 @@
 		1994CDED2785612100EBE16F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1994CDEB2785612100EBE16F /* LaunchScreen.storyboard */; };
 		1994CDF52785618F00EBE16F /* ExpansionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1994CDF42785618F00EBE16F /* ExpansionViewController.swift */; };
 		1994CE0B2786EDEC00EBE16F /* 2022 1 6 dog.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1994CE0A2786EDEC00EBE16F /* 2022 1 6 dog.jpeg */; };
-		1994CE0D2786EF7100EBE16F /* 2022 1 6 dog2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1994CE0C2786EF7100EBE16F /* 2022 1 6 dog2.jpeg */; };
 		1994CE112786F13700EBE16F /* 2022 1 6 monkey.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1994CE102786F13700EBE16F /* 2022 1 6 monkey.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1941FDA0278717E000B7144B /* 2022 1 6 rion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "2022 1 6 rion.png"; path = "../../../Downloads/2022 1 6 rion.png"; sourceTree = "<group>"; };
 		195E166F2787FACD00906063 /* 2022 1 7 koala.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2022 1 7 koala.jpeg"; sourceTree = "<group>"; };
 		195E16702787FACD00906063 /* 2022 1 7 panda.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2022 1 7 panda.jpeg"; sourceTree = "<group>"; };
 		195E16712787FACD00906063 /* 2022 1 7 cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2022 1 7 cat.png"; sourceTree = "<group>"; };
@@ -38,7 +35,6 @@
 		1994CDEE2785612100EBE16F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1994CDF42785618F00EBE16F /* ExpansionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpansionViewController.swift; sourceTree = "<group>"; };
 		1994CE0A2786EDEC00EBE16F /* 2022 1 6 dog.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2022 1 6 dog.jpeg"; sourceTree = "<group>"; };
-		1994CE0C2786EF7100EBE16F /* 2022 1 6 dog2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2022 1 6 dog2.jpeg"; sourceTree = "<group>"; };
 		1994CE102786F13700EBE16F /* 2022 1 6 monkey.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2022 1 6 monkey.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -81,9 +77,7 @@
 				1994CDEB2785612100EBE16F /* LaunchScreen.storyboard */,
 				1994CDEE2785612100EBE16F /* Info.plist */,
 				1994CE0A2786EDEC00EBE16F /* 2022 1 6 dog.jpeg */,
-				1994CE0C2786EF7100EBE16F /* 2022 1 6 dog2.jpeg */,
 				1994CE102786F13700EBE16F /* 2022 1 6 monkey.jpeg */,
-				1941FDA0278717E000B7144B /* 2022 1 6 rion.png */,
 				195E16712787FACD00906063 /* 2022 1 7 cat.png */,
 				195E166F2787FACD00906063 /* 2022 1 7 koala.jpeg */,
 				195E16702787FACD00906063 /* 2022 1 7 panda.jpeg */,
@@ -152,13 +146,11 @@
 				1994CE0B2786EDEC00EBE16F /* 2022 1 6 dog.jpeg in Resources */,
 				195E16742787FACD00906063 /* 2022 1 7 cat.png in Resources */,
 				1994CDED2785612100EBE16F /* LaunchScreen.storyboard in Resources */,
-				1941FDA1278717E000B7144B /* 2022 1 6 rion.png in Resources */,
 				1994CDEA2785612100EBE16F /* Assets.xcassets in Resources */,
 				1994CDE82785612000EBE16F /* Main.storyboard in Resources */,
 				195E16722787FACD00906063 /* 2022 1 7 koala.jpeg in Resources */,
 				1994CE112786F13700EBE16F /* 2022 1 6 monkey.jpeg in Resources */,
 				195E16732787FACD00906063 /* 2022 1 7 panda.jpeg in Resources */,
-				1994CE0D2786EF7100EBE16F /* 2022 1 6 dog2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
